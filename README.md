@@ -1,5 +1,5 @@
 # vsot-android
-VSOT is a alternative solution for TTS Engine in Android Studio using SoundOfText API. <br/>
+VSOT is an alternative solution for TTS Engine in Android Studio using SoundOfText API. <br/>
 You can visit SOT API site right here: [https://soundoftext.com/docs](https://soundoftext.com/docs) <br/>
 And visit my blog, if you want: [https://www.duongtech.com/](https://www.duongtech.com/)
 ## How to use?
